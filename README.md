@@ -1,1 +1,4 @@
 # repositorio_entornos_desarrollo
+HEAD
+repositorio para trabajos de la asignatura
+f4673b18075b82fdbbce623b70742c9cd2cbf984
